@@ -40,5 +40,3 @@ It acts like a very simple counter-based card drawer — ideal for learning, tes
 ## Deployed Smart Contract Link
 
 **0xE0ea442E9D1597f8A11B2CAAA47Ee517892B42e2**
-
-(Replace this placeholder with your deployed contract link.)
